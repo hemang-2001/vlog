@@ -10,7 +10,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: , Web-Developer :fire:	
--  **Languages :** Python, C, HTML
+-  **Languages :** Python, C,C++, HTML
 -  **Hobbies :** Gaming :video_game: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Website :** [https://hemang.engineer](https://hemang.engineer)
