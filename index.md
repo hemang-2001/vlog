@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Web-Developer :fire:	
+-  **Learning :** Full-Stack Development :zap: , Web-Developer :fire:	
 -  **Languages :** Python, C, HTML
 -  **Hobbies :** Gaming :video_game: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
